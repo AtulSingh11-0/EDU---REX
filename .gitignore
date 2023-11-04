@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+lib/
+vendor/
+# Add other dependency directories here
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and debugging
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Compiled binary files
+*.o
+*.out
+*.exe
+
+# Local development files
+.env
+.env.local
+.env.*.local
+.env.test
+.env.prod
+.env.local
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*~
